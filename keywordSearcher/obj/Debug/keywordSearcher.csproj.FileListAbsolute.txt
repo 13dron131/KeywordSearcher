@@ -1,0 +1,6 @@
+X:\programs\EPAM\keywordSearcher\keywordSearcher\bin\Debug\keywordSearcher.exe.config
+X:\programs\EPAM\keywordSearcher\keywordSearcher\bin\Debug\keywordSearcher.exe
+X:\programs\EPAM\keywordSearcher\keywordSearcher\bin\Debug\keywordSearcher.pdb
+X:\programs\EPAM\keywordSearcher\keywordSearcher\obj\Debug\keywordSearcher.csprojResolveAssemblyReference.cache
+X:\programs\EPAM\keywordSearcher\keywordSearcher\obj\Debug\keywordSearcher.exe
+X:\programs\EPAM\keywordSearcher\keywordSearcher\obj\Debug\keywordSearcher.pdb
